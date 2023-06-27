@@ -18,11 +18,11 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@abokmadaki](https://hashnode.com/@abokmadaki)🗒️
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Open Source, Technical Writing, Community Management Git & GitHub**🧠
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Open Source, Technical Writing, Community Management, Git & GitHub**🧠
 
 - 📫 How to reach me **abokistifanusmadaki@gmail.com**📧
 
-- 🗃️ Know about my experiences as a Frontend Web Developer [https://drive.google.com/drive/folders/1nZscv72BweERkCOerNqVQUNtqnpRVdnZ](https://drive.google.com/drive/folders/1nZscv72BweERkCOerNqVQUNtqnpRVdnZ) :😊
+- 🗃️ Know about my experiences as a Frontend Web Developer [https://drive.google.com/drive/folders/1nZscv72BweERkCOerNqVQUNtqnpRVdnZ](https://drive.google.com/drive/folders/1nZscv72BweERkCOerNqVQUNtqnpRVdnZ) 😊
   
 - 📄 Know about my experiences as a Community Manager [https://drive.google.com/drive/folders/1XP17G4dE0H-314pqJ68zw5kDvoRdKTaY](https://drive.google.com/drive/folders/1XP17G4dE0H-314pqJ68zw5kDvoRdKTaY) 🤔
 
