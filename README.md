@@ -1,9 +1,11 @@
+<img src="https://github.com/abokmadaki/abokmadaki/blob/main/ABOK MADAKI, PROFILE HEADER.jpg">
+
 <h1 align="center">Hi 👋, I'm Abok Istifanus Madaki</h1>
-<h3 align="center">A passionate Frontend Developer, Technical Writer, and Community Manager from Nigeria 🇳🇬 </h3>
+<h3 align="center">A Passionate Frontend Developer, Technical Writer, and Community Manager from Nigeria 🇳🇬 </h3>
 
 <p align="left"> <a href="https://twitter.com/iam_abok" target="blank"><img src="https://img.shields.io/twitter/follow/iam_abok?logo=twitter&style=for-the-badge" alt="iam_abok" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abokmadaki&label=Profile%20views&color=0e75b6&style=flat" alt="abokmadaki" /> </p>
-
+# 💫 About Me:
 - 🔭 I’m currently working on **DEVELOPING MY PORTFOLIO**💼
 
 - 🌱 I’m currently learning **JavaScript, React.js**💻
@@ -49,4 +51,15 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/abokmadaki) 
+
+  ## Watch my contributions get eaten by snake 🐍
+
+<!-- Contribution Snake -->
+
+![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
+
+
+<!-- Footer -->
+
+<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg"> 
 
