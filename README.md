@@ -21,8 +21,6 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Open Source, Technical Writing, Community Management, Git & GitHub**🧠
 
 - 📫 How to reach me **abokistifanusmadaki@gmail.com**📧
-
-- 🗃️ Take a look at my Resume as a Frontend Web Developer [https://docs.google.com/document/d/1yXGG_X9-6EvvuZzxWtduOlGDBjJQc_dVW-eo1yTcfuY/edit?usp=sharing](https://docs.google.com/document/d/1yXGG_X9-6EvvuZzxWtduOlGDBjJQc_dVW-eo1yTcfuY/edit?usp=sharing) 😊
   
 - 📄 Know about my experiences as a Community Manager [https://drive.google.com/drive/folders/1XP17G4dE0H-314pqJ68zw5kDvoRdKTaY](https://drive.google.com/drive/folders/1XP17G4dE0H-314pqJ68zw5kDvoRdKTaY) 🤔
 
