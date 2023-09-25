@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **DEVELOPING MY PORTFOLIO**💼
 
-- 🌱 I’m currently learning **ReactJS,** **Redux,** **TypeScript,** **AngularJS,** **Vue.js,** **Node.js** 💻
+- 🌱 I’m currently learning **ReactJS,** **TypeScript,** **Next.js,** **GraphQL,** **Kubernetes,** **Docker,** **Node.js** 💻
 
 - 👯 I’m looking to collaborate on various **OPEN SOURCE PROJECTS**👐
 
